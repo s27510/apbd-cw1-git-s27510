@@ -19,7 +19,7 @@ static string CalculateMax(int[] values)
     return "max";
 }
 
-static double CalculateMin(int[] values)
+static string CalculateMin(int[] values)
 {
-    return 0.0;
+    return "min";
 }
