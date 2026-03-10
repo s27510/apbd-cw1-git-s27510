@@ -13,3 +13,8 @@ static double CalculateAverage(int[] values)
 {
     return 0.0;
 }
+
+static string CalculateMax(int[] values)
+{
+    return "max";
+}
