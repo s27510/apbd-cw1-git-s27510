@@ -18,7 +18,7 @@ static double CalculateAverage(int[] values)
 
 static string CalculateMax(int[] values)
 {
-    return "max";
+    return "max main";
 }
 
 static string CalculateMin(int[] values)
