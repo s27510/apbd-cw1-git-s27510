@@ -9,6 +9,8 @@ Console.WriteLine("Commit 4");
 
 Console.WriteLine("Independent commit task 4");
 
+Console.WriteLine("Commit rebase task 6");
+
 static double CalculateAverage(int[] values)
 {
     return 0.0;
